@@ -1,6 +1,7 @@
 {
-  "compilerOptions": {
-    "target": "es5",
+  "vueCompilerOptions": {
+    "experimentalDisableTemplateSupport": true,
+    // "target": "es5",
     "module": "esnext",
     "baseUrl": "./",
     "moduleResolution": "node",
